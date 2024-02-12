@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    
+    
+    
+}
+div{
+    padding:4px;
+
+}
+.top-div{
+   
+    background-color: rgb(127, 127, 127);
+   
+
+    
+    
+}
+
+.bottom-div{
+    background-color: rgb(79, 97, 125);
+    width: 1290px;
+    margin: 0;
+    
+    
+}
+.Yoo{
+    position: absolute;
+    left: 500px;
+    margin: 0;
+    color: whitesmoke;
+}
+
+.Gudrup{
+    text-decoration: underline;
+}
+
+.O-underline{
+    text-decoration: underline;
+}
+h3{
+    color: brown;
+
+}
+.h3-1{
+    padding-top: 30px;
+}
+h2{
+    color: black;
+}
+
+hr{
+    color: black;
+    border-style: dotted;
+    
+    
+}
+.education{
+    width: 18%;
+    position: absolute;
+    left: 450px;
+    border-radius: 100%;
+}
+.hobbies{
+    width: 18%;
+    position: absolute;
+    left: 450px;
+    border-radius: 100%;
+}
+.objective{
+    width: 18%;
+    position: absolute;
+    left: 10px;
+    border-radius: 100%;
+
+}
+.experience-color{
+    color: rgb(255, 255, 255);
+}
+.languages-color{
+    color: rgb(255, 255, 255);
+}
+
+.projects-color{
+    color: rgb(255, 255, 255);
+}
+.intouch{
+    text-align: center;
+    font-size: 19px;
+    color: aqua;
+    
+}
+.clickhere{
+    color: black;
+}
+
+.getintouch{
+    font-size: 35px;
+    
+}
+.bordercontact{
+    border: transparent);
+    padding: 10px 5px;
+    border-radius: 15px;
+    background-color: bisque;
+    
+}
+.bordercontact:hover{
+   background-color: rgb(171, 255, 115);
+}
+.social {
+    text-align: center;
+    font-size: 70px; 
+    border-radius: 100%;
+    
+}
+
+.copyright{
+    text-align: center;
+    color: aqua;
+}
+
+
+.footer ul{
+    list-style: none;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.footer ul li{
+    display: inline-block;
+    padding: 15px;
+    
+}
+.footer ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.footer ul li a:hover{
+    color: aqua;
+}
+.footer{
+    background-color: rgb(39, 39, 39);
+}
